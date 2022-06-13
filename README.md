@@ -12,3 +12,8 @@ The opposite of this means you have lost; for example, you input paper and compu
 
 There is also a possiblity for a tie, whereby if the user nd the computer's input is the same, then its a tie. 
 In such situations, you will be asked if you want to play again, just type in "yes".
+
+To learn more about this click on this link: 
+
+https://www.youtube.com/watch?v=ND4fd6yScBM
+https://en.wikipedia.org/wiki/Rock_paper_scissors
