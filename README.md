@@ -1,7 +1,7 @@
 # rock_paper_scissors
-This a simple game 
-It is between the computer and the user
-The user has 3 options, either to input, rock, paper or scissors
+This a simple game.
+It is between the computer and the user.
+The user has 3 options, either to input, rock, paper or scissors.
 
 How do you win?
 If you input rock and the computer's input is scissors, you win.
